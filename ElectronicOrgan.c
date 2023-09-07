@@ -3,7 +3,7 @@
   ******************************************************************************
   * @file           : ElectronicOrgan.c
   * @brief          : ElectronicOrgan program body
-  * @author         : Lesterbor
+  * @author         : 千樊
   * @time	    	: 2020-02-21
   *
   ******************************************************************************
@@ -47,7 +47,6 @@
 /* USER CODE END EFP */
 /* Function definition -------------------------------------------------------*/
 /* USER CODE BEGIN FD */
-
 /**
   * @Function name  main
   * @Introduce      主函数						
@@ -109,7 +108,6 @@
 		delay(a);
 		b++;
 	}
- 		
   }
 /**
   * @Function name  delay
@@ -119,3 +117,5 @@
   void delay(uint i){
 	while(i--);	
   }
+/* USER CODE END FD */
+/************************ (C) COPYRIGHT 「千樊」 *****END OF FILE****/
