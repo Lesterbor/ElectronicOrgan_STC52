@@ -4,7 +4,7 @@
   * @file           : ElectronicOrgan.c
   * @brief          : ElectronicOrgan program body
   * @author         : 千樊
-  * @time	    	: 2020-02-21
+  * @time	    : 2020-02-21
   *
   ******************************************************************************
   * @attention
